@@ -3,7 +3,7 @@
 - 💻 I'm currently working on Color palette generator.
 - 🌱 I’m currently learning React.
 - 📫 Feel free to ping me on [Linkedin](https://www.linkedin.com/in/anchit-sinha-84132b120/).
-- 🗒️ Checkout my full [resume]().
+- 🗒️ Checkout my full [resume](https://drive.google.com/file/d/1U4qa0lZMZGoLDdK_brbMI67JXNvyp8R5/view?usp=sharing).
 - 📚 I also enjoy reading books. For the full list, checkout my [Goodreads](https://www.goodreads.com/user/show/54608747-anchit-sinha).
 
 ## 🌐Socials
