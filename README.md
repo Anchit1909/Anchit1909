@@ -1,6 +1,6 @@
 # 💫About Me :
 - 👋 Hi, I’m Anchit Sinha from India.
-- 💻 I'm currently working on a Notion Bookmark manager chrome extension.
+- 💻 I'm currently working on a File sharing application.
 - 🌱 I’m currently building web apps.
 - 📫 Feel free to ping me on [Linkedin](https://www.linkedin.com/in/anchit-sinha-84132b120/).
 - 🗒️ Checkout my full [resume](https://drive.google.com/file/d/1U4qa0lZMZGoLDdK_brbMI67JXNvyp8R5/view?usp=sharing).
