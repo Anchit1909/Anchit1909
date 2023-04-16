@@ -6,10 +6,8 @@
 - 🗒️ Checkout my full [resume](https://drive.google.com/file/d/1SrY-QromlGFOqfe3pPSCngny7W9f78sX/view?usp=share_link).
 - 📚 I also enjoy reading books. For the full list, checkout my [Goodreads](https://www.goodreads.com/user/show/54608747-anchit-sinha).
 
-## 🌐Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anchit1909) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/anchit1909) 
 
-# Tech Stack
+### Tech Stack
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
@@ -46,6 +44,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" width="52" alt="npm logo"  />
   <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a>
 </div>
+
+### Socials
+
+<p align="left"> 
+<a href="https://www.twitter.com/anchit1909" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/anchit-sinha" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>&nbsp;
+<a href="https://discord.com/users/Anchit1909#8248" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>&nbsp;
+<a href="http://www.instagram.com/anchit1909" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
+</p>
 
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=anchit1909&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
