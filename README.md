@@ -8,7 +8,9 @@ Full stack web and application developer
 * 🖥️  See my portfolio [Personal Portfolio](http://https://anchit-sinha.vercel.app/)
 * ✉️  Feel free to ping me on [Linkedin](https://www.linkedin.com/in/anchit-sinha/)
 * 🚀  I'm currently working on an [ecommerce application](http://https://github.com/Anchit1909/aurius-ecommerce-website)
-* 🗒️ Checkout my full [resume](https://drive.google.com/file/d/1SrY-QromlGFOqfe3pPSCngny7W9f78sX/view?usp=sharing)
+* 🗒️  Checkout my full [resume](https://drive.google.com/file/d/1SrY-QromlGFOqfe3pPSCngny7W9f78sX/view?usp=sharing)
+* 🤝  I'm looking to collaborating on **Open Source Projects** and **Hackathons**
+* ✉️  You can also contact me at [anchit1909@gmail.com](mailto:anchit1909@gmail.com)
 
 -------------------------------------------------
 
@@ -44,6 +46,8 @@ Full stack web and application developer
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" width="52" alt="amazonwebservices logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" width="52" alt="azure logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" width="52" alt="googlecloud logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="52" alt="docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40" width="52" alt="jenkins logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" width="52" alt="pandas logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" width="52" alt="numpy logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" width="52" alt="tensorflow logo"  />
