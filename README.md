@@ -1,13 +1,23 @@
-# 💫About Me :
-- 👋 Hi, I’m Anchit Sinha from India.
-- 💻 I'm currently working on an Ecommerce application.
-- 🌱 I’m currently building web apps.
-- 📫 Feel free to ping me on [Linkedin](https://www.linkedin.com/in/anchit-sinha-84132b120/).
-- 🗒️ Checkout my full [resume](https://drive.google.com/file/d/1SrY-QromlGFOqfe3pPSCngny7W9f78sX/view?usp=share_link).
-- 📚 I also enjoy reading books. For the full list, checkout my [Goodreads](https://www.goodreads.com/user/show/54608747-anchit-sinha).
+Hey, I'm Anchit Sinha ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+====================================================================================================================================
+
+Full stack developer with a Passion for Developing Creative Applications
+-------------------------------------------------
+
+* 🌍  I'm based in India
+* 🖥️  See my portfolio [Personal Portfolio](http://https://anchit-sinha.vercel.app/)
+* ✉️  Feel free to ping me on [Linkedin](https://www.linkedin.com/in/anchit-sinha/)
+* 🚀  I'm currently working on an [ecommerce application](http://https://github.com/Anchit1909/aurius-ecommerce-website)
+* 🗒️ Checkout my full [resume](https://drive.google.com/file/d/1SrY-QromlGFOqfe3pPSCngny7W9f78sX/view?usp=sharing)
+
+-------------------------------------------------
 
 
-### Tech Stack
+> Through my work, I strive to craft digital experiences that exceed user expectations, leaving a lasting impression of quality and innovation.
+
+
+
+### Tech Skills
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
@@ -54,7 +64,8 @@
 <a href="http://www.instagram.com/anchit1909" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
 </p>
 
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=anchit1909&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=anchit1909&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anchit1909&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/Anchit1909"><img src="https://github-readme-stats.vercel.app/api?username=Anchit1909&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Anchit1909's GitHub stats" /></a>
