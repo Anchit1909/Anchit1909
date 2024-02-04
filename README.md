@@ -7,7 +7,7 @@ Full stack web and application developer
 * 🌍  I'm based in India
 * 🖥️  See my portfolio [Personal Portfolio](https://anchit-sinha.vercel.app/)
 * ✉️  Feel free to ping me on [Linkedin](https://www.linkedin.com/in/anchit-sinha/)
-* 🚀  I'm currently working on an [Storycraft AI - AWS Serverless Stories Generator](https://github.com/Anchit1909/ai-stories)
+* 🚀  I'm currently working on an [Storycraft AI - AWS Serverless Stories Generator](https://github.com/Anchit1909/storycraft-ai)
 * 🤝  I'm looking to collaborate on **Open Source Projects** and **Hackathons**
 * ✉️  You can also contact me at [anchit1909@gmail.com](mailto:anchit1909@gmail.com)
 
