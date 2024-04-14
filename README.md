@@ -2,14 +2,18 @@
 
 Full stack software engineer
 -------------------------------------------------
-* 🌍  I'm based in India
+* 👨‍💻  Currently mostly into webapps and devtools.
+* 🤝  Open Source Enthusiast
+* 🌍  Based in India
 * 🖥️  See my portfolio at [Anchit Sinha](https://anchit-sinha.vercel.app/)
 * ✉️  Feel free to ping me on [Linkedin](https://www.linkedin.com/in/anchit-sinha/)
-* 🚀  I'm currently working on [Storycraft AI - AWS Serverless Stories Generator](https://github.com/Anchit1909/storycraft-ai)
-* 🤝  I'm looking to collaborate on **Open Source Projects** and **Hackathons**
+* 🚀  Currently working on [Storycraft AI - AWS Serverless Stories Generator](https://github.com/Anchit1909/storycraft-ai)
+* 🤝  Looking to collaborate on **Open Source Projects** and **Hackathons**
 * ✉️  You can also contact me at [anchit1909@gmail.com](mailto:anchit1909@gmail.com)
 
 -------------------------------------------------
+
+>  "Best way to learn is to build shit" - TheoBr
 
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anchit-sinha/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@anchit1909) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/anchit1909) 
@@ -127,6 +131,10 @@ Full stack software engineer
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="prisma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=planetscale" height="40" alt="planetscale logo"  />
 </div>
 
 ### 📊 GitHub Stats:
