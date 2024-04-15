@@ -137,8 +137,4 @@ Full stack software engineer
   <img src="https://skillicons.dev/icons?i=planetscale" height="40" alt="planetscale logo"  />
 </div>
 
-### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=anchit1909&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=anchit1909&theme=dark&hide_border=true)<br/>
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
