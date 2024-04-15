@@ -13,7 +13,7 @@ Full stack software engineer
 
 -------------------------------------------------
 
->  "Best way to learn is to build shit" - TheoBr
+>  "Best way to learn is to build shit"
 
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anchit-sinha/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@anchit1909) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/anchit1909) 
