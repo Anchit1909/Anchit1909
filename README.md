@@ -2,7 +2,7 @@
 
 Full stack software engineer
 -------------------------------------------------
-* 👨‍💻  Currently mostly into webapps and devtools.
+* 👨‍💻  Currently mostly into webapps and devtools
 * 🤝  Open Source Enthusiast
 * 🌍  Based in India
 * 🖥️  See my portfolio at [Anchit Sinha](https://anchit-sinha.vercel.app/)
